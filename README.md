@@ -1,4 +1,4 @@
-<img src="/Images/Intro-CS.png" />
+<img src="/Images/prog.png" />
 
 [![Alt-Text](https://img.shields.io/static/v1.svg?label=ver&message=1.0&color=success)](docs/start.md)
 [![](https://img.shields.io/static/v1.svg?label=license&message=BSD3&color=blue)](LICENSE)
